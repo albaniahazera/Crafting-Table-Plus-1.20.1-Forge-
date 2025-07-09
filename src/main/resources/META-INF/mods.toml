@@ -7,7 +7,7 @@ version="${mod_version}"
 displayName="${mod_name}"
 displayURL="https://allmods.alhazera25.my.id/mods/crafting-table-plus"
 logoFile="ctp.png"
-#credits="" #optional
+#credits=""
 authors="${mod_authors}"
 description='''${mod_description}'''
 
