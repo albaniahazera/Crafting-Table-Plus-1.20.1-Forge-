@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PSP",
+    "DPD"
+  ],
+  "key" : {
+    "P": {
+      "item": "minecraft:prismarine"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "item": "minecraft:tide_armor_trim_smithing_template",
+    "count": 1
+  }
+}

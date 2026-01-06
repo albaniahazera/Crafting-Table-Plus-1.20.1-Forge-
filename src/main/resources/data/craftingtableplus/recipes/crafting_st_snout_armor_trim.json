@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "DSD",
+    "BBB"
+  ],
+  "key" : {
+    "B": {
+      "item": "minecraft:blackstone"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "item": "minecraft:snout_armor_trim_smithing_template",
+    "count": 1
+  }
+}
